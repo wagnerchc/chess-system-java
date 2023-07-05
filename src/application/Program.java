@@ -9,7 +9,7 @@ public class Program {
 		ChessMatch chessMatch = new ChessMatch();
 		
 		UI.printBoard(chessMatch.getPieces());		
-
+		
 	}
 
 }
