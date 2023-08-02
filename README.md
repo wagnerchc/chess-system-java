@@ -30,3 +30,12 @@ cd bin
 # executar o projeto
 java application/Program
 ```
+# Autor
+
+Wagner Pereira Chequeleiro
+
+https://www.linkedin.com/in/wagnerpch/
+
+## Contribuição e agradecimento
+
+Projeto desenvolvido a partir das aulas do professor Nelio Alves, obtidas na plataforma de ensino Udemy, mais informações do curso <a href="https://www.udemy.com/course/java-curso-completo/" target="_blank">clique aqui<a>. Agradeço ao professor por proporcional acesso didático e organizado ao mundo do JAVA.
