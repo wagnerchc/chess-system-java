@@ -17,7 +17,11 @@ public class Position {
 	public void setRow(int row) {
 		this.row = row;
 	}
-
+	
+	public int isThereOpponentPiece() {
+		return column;
+	}
+	
 	public int getColumn() {
 		return column;
 	}
